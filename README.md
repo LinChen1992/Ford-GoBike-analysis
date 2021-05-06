@@ -1,2 +1,17 @@
-# Ford-GoBike-analysis
-Based on the dataset provided, we could have a glimpse of how the regional public bicycle sharing system runs in California's San Francisco Bay Area, as well as biking preferences in terms of location, time and duration, from users under different age and gender groups. The dataset contains detailed information of all Ford GoBike tours in Feb 2019, at cities of San Francisco, San Jose and Oakland respectively. Time and location for starting point and destination, gender and age for users, as well as some other features are provided for each bike tour.
+# Exploration of Ford GoBike System Data
+## by Lin Chen
+
+
+## Dataset
+
+> This data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
+
+
+## Summary of Findings
+
+> The distribution of time, hour, place and duration for biking, as well as user info distribution, percentages. Nothing much quite surprising, so I will bring them altogether and see what we can find.
+
+
+## Key Insights for Presentation
+
+> Most data are qualitative, biking duration is the most important quantitative variable. Therefore we shall use different features individually or together to see their relationships to biking time, in order to know GoBike user's behavior and why they behave like that. Also, busiest bike and stations shall be picked out for further analysis.
