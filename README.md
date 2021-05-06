@@ -1,0 +1,2 @@
+# Ford-GoBike-analysis
+Based on the dataset provided, we could have a glimpse of how the regional public bicycle sharing system runs in California's San Francisco Bay Area, as well as biking preferences in terms of location, time and duration, from users under different age and gender groups. The dataset contains detailed information of all Ford GoBike tours in Feb 2019, at cities of San Francisco, San Jose and Oakland respectively. Time and location for starting point and destination, gender and age for users, as well as some other features are provided for each bike tour.
